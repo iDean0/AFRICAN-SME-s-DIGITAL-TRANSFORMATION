@@ -1,6 +1,6 @@
 # AFRICAN-SME-s-DIGITAL-TRANSFORMATION
 
-## Project Overview
+## Overview
 This project analyzes the level of digital transformation among Small and Medium Enterprises (SMEs) across African countries using Power BI. The objective is to understand how digital adoption influences business growth, funding outcomes, and operational efficiency.
 
 The analysis is presented through three interactive dashboards designed to support business, policy, and investment decisions.
@@ -15,18 +15,6 @@ The analysis is presented through three interactive dashboards designed to suppo
 
 ## Dataset Information
 **Source:** Kaggle – African SME Digital Transformation Dataset  
-
-**Key Fields:**
-- Country  
-- Sector  
-- SME Size  
-- Digital Adoption Level (Low, Medium, High)  
-- Growth Band (Decline, Low, Moderate, High)  
-- Funding Status  
-- Female Ownership  
-- Digital Tools Used (multi-value column)  
-- Adoption Challenges  
-- Remote Work Policy  
 
 ## Data Preparation & Modeling
 Data cleaning and transformation were performed in Power BI using Power Query and DAX:
@@ -61,23 +49,8 @@ Data cleaning and transformation were performed in Power BI using Power Query an
 - Cost and skills gaps are the leading barriers to digital adoption
 - Remote and hybrid work policies are associated with higher growth bands
 
-## 🛠️ Tools & Technologies
-- Power BI Desktop  
+## Tools Used
+- Power BI 
 - Power Query  
 - DAX  
-- Data Modeling  
-- Dashboard Design & Visualization  
 
-## 📎 Repository Contents
-- `Sme_Digital_Transformation.pbix` — Power BI project file
-- Dashboard screenshots
-- Project documentation
-
-## 👤 Author
-**Daniel**  
-Data Analysis Project — Digital Transformation of African SMEs
-
----
-
-## 📌 Notes
-This project is intended for portfolio, learning, and demonstration purposes.
