@@ -54,3 +54,7 @@ Data cleaning and transformation were performed in Power BI using Power Query an
 - Power Query  
 - DAX  
 
+## Contact
+📩 [Email](mailto:adeyosoye37@gmail.com)
+
+🔗 [Linkedin](https://www.linkedin.com/in/daniel-y-/)
