@@ -93,3 +93,5 @@ Data cleaning and transformation were performed in Power BI using Power Query an
 📩 [Email](mailto:adeyosoye37@gmail.com)
 
 🔗 [Linkedin](https://www.linkedin.com/in/daniel-y-/)
+
+💬 [Chat on Whatsapp](https://wa.me/2348141512158)
