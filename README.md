@@ -14,7 +14,9 @@ The analysis is presented through three interactive dashboards designed to suppo
 - Highlight key barriers to digital transformation
 
 ## Dataset Information
-**Source:** Kaggle – African SME Digital Transformation Dataset  
+**Source:** Kaggle – African SME Digital Transformation Dataset 
+https://github.com/iDean0/AFRICAN-SME-s-DIGITAL-TRANSFORMATION/blob/main/African_Sme_Digital_Transformation.xlsx
+https://github.com/iDean0/AFRICAN-SME-s-DIGITAL-TRANSFORMATION/blob/main/African_Sme's_Digital_Transformation.pbix
 
 **Key Fields:**
 - Country  
